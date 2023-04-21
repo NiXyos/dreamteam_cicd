@@ -11,7 +11,7 @@ Sample .NET Core reference application, powered by Microsoft, based on a simplif
 ![](img/eshop-spa-app-home.png)
 
 ## Build Status (GitHub Actions)
-
+ 
 | Image | Status | Image | Status |
 | ------------- | ------------- | ------------- | ------------- |
 | Web Status |  [![Web Status](https://github.com/dotnet-architecture/eShopOnContainers/workflows/webstatus/badge.svg?branch=dev)](https://github.com/dotnet-architecture/eShopOnContainers/actions?query=workflow%3Awebstatus) | Shopping Aggregator (Web) | [![Web Shopping Aggregator](https://github.com/dotnet-architecture/eShopOnContainers/workflows/webshoppingagg/badge.svg)](https://github.com/dotnet-architecture/eShopOnContainers/actions?query=workflow%3Awebshoppingagg) |
